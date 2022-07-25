@@ -1,4 +1,10 @@
 # Projet CMO
+
+**Participants**
++ Olivier H.Q.M.
++ Clément L.
++ Marwane E.J.  
+
 **Autres noms potentiels :**
 + Fructus
 + OriginPaper
