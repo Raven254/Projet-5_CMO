@@ -1,4 +1,4 @@
-# Projet CMO
+# Groupe 9 - CMO
 
 **Participants**
 + Olivier H.Q.M.
