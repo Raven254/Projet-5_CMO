@@ -23,7 +23,7 @@ générant une certification horodatée au créateur du produit.
 
 - **Quoi ?** Un outil de preuve de création originelle.  
 - **Pourquoi ?** Pour améliorer l'expérience des utilisateurs de contenus.  
-- **Pour qui ?** Les créateur de contenus.  
+- **Pour qui ?** Les créateurs de contenus.  
 - **Comment ?** En effectuant une vérification par niveaux de l'authenticité de l'oeuvre et en consignant celle-ci sur la blockchain.
 
 ## **Agenda global des réunions**
